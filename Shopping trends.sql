@@ -1,0 +1,1 @@
+SELECT * FROM shopping_trends.shopping_trends_base;
